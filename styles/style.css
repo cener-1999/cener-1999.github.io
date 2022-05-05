@@ -1,0 +1,31 @@
+html{
+    font-size: 16px;
+    font-family: 'Noto Serif SC', serif;
+    background-color:blueviolet;
+    color: seashell;
+    text-shadow:2px;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: black;
+    padding: 0 20px 20px 20px;
+    border: 5px solid greenyellow;
+}
+h1{
+    margin: 0;
+    color: yellow;
+    padding: 20px 0;
+    font-size: 100;
+    text-shadow: 2px 2px 1px white;
+    text-align: center;
+}
+p,li{
+    font-size: 30;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
